@@ -7,7 +7,7 @@ Developer
 After working in the transport industry for 20 years, I've had something of a huge change in direction and started to try and learn about this coding lark.
 
 * 🌍  I'm based in West Yorkshire, UK.
-* ✉️  You can contact me at [wayne.rockett@efi.com](mailto:wayne.rockett@efi.com)
+* ✉️  You can contact me at [wayne.rockett@epssw.com](mailto:wayne.rockett@epssw.com)
 * 🧠  I'm learning everything I can.
 * ⚡  In my spare time I write and host murder mystery nights
 
@@ -26,6 +26,8 @@ After working in the transport industry for 20 years, I've had something of a hu
 <img src="https://www.krescentglobal.com/images/iphone/cobol-1.png" width="36" height="36" alt="COBOL" />
 </p>
 
+### Projects
+🚧 Currently working on an extension for VS Code
 
 ### Socials
 
