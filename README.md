@@ -45,10 +45,12 @@ After working in the transport industry for 20 years, I've had something of a hu
 
 <a href="https://github.com/WayneRockett" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneRockett&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/countdisoQ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 <details>
  <summary><h3>My Coding Journey</h3></summary>
    I'm one of the generation of bedroom coders from the ZX Spectrum days, but was always unsure if it was something I wanted to do as a career.  So as a student I split my studies between computers, business and educational (I was always getting pushed towards being a teacher).  At the end of my first year as a student, I did a presentation to prospective students on how computers could be used in the transport industry.  A few years later, I was working in the transport industry.  Coding hadn't quite disappeared form my life, although I eventually didn't own a computer myself, I would still code at work to make life easier for myself and sometimes my co-workers.  Upon leaving the transport industry I jumped around a few jobs usually helping people improve how their office ran by writing small scripts or apps, until I was offered the chance to have a go at rolling back the years and becoming a developer.
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/countdisoQ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
