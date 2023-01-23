@@ -1,7 +1,7 @@
 Howdy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Wayne Rockett
 =====================================================================================================================================
 
-Developer
+Digital Crafter
 ---------
 
 After working in the transport industry for 20 years, I've had something of a huge change in direction and started to try and learn about this coding lark.
@@ -11,7 +11,9 @@ After working in the transport industry for 20 years, I've had something of a hu
 * 🧠  I'm learning everything I can.
 * ⚡  In my spare time I write and host murder mystery nights
 
-### Skills
+---
+
+### Languages and Tools
 
 
 <p align="left">
@@ -27,7 +29,9 @@ After working in the transport industry for 20 years, I've had something of a hu
 </p>
 
 ### Projects
-🚧 Currently working on an extension for VS Code
+🚧 Working (slowly) on an extension for VS Code, Rockett Viewer, which is availabe on the VS Code Marketplace.
+🚧 Also planning Rockett Replace, a string replace extension for VS Code.
+
 
 ### Socials
 
@@ -40,6 +44,10 @@ After working in the transport industry for 20 years, I've had something of a hu
 <a href="http://www.github.com/WayneRockett"><img src="https://github-readme-stats.vercel.app/api?username=WayneRockett&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="WayneRockett's GitHub stats" /></a>
 
 <a href="https://github.com/WayneRockett" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneRockett&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<details>
+ <summary><h3>My Coding Journey</h3></summary>
+   I'm one of the generation of bedroom coders from the ZX Spectrum days, but was always unsure if it was something I wanted to do as a career.  So as a student I split my studies between computers, business and educational (I was always getting pushed towards being a teacher).  At the end of my first year as a student, I did a presentation to prospective students on how computers could be used in the transport industry.  A few years later, I was working in the transport industry.  Coding hadn't quite disappeared form my life, although I eventually didn't own a computer myself, I would still code at work to make life easier for myself and sometimes my co-workers.  Upon leaving the transport industry I jumped around a few jobs usually helping people improve how their office ran by writing small scripts or apps, until I was offered the chance to have a go at rolling back the years and becoming a developer.
 
 ### Support Me
 
