@@ -39,7 +39,8 @@ After working in the transport industry for 20 years, I've had something of a hu
 
 ### Badges
 
-https://www.codewars.com/users/WayneRockett/badges/micro
+Code Wars, top 200 for TypeScript
+<img src="https://www.codewars.com/users/WayneRockett/badges/micro" alt="CodeWars"/>
 
 <b>My GitHub Stats</b>
 
