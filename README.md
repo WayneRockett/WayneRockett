@@ -40,7 +40,7 @@ After working in the transport industry for 20 years, I've had something of a hu
 ### Badges
 
 <p>
-Code Wars, top 200 for TypeScript
+Code Wars, top 150 for TypeScript (ssh, don't ask about CSS Battle)
 </p>
 <p>
 <img src="https://www.codewars.com/users/WayneRockett/badges/micro" alt="CodeWars"/>
