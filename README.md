@@ -31,10 +31,6 @@ After working in the transport industry for 20 years, I've had something of a hu
 🚧 Working (slowly) on an extension for VS Code, Rockett Viewer, which is available on the VS Code Marketplace.
 🚧 Also planning Rockett Replace, a string replace extension for VS Code.
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/WayneRockett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <p>
