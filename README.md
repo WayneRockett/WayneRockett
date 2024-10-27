@@ -2,7 +2,7 @@ Howdy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 =====================================================================================================================================
 
 Digital Crafter
----------
+
 
 
 After working in the transport industry for 20 years, I've had something of a huge change in direction and started to try and learn about this coding lark.
@@ -12,9 +12,6 @@ After working in the transport industry for 20 years, I've had something of a hu
 * ✉️  You can contact me at [wayne@waynerockett.com](mailto:wayne@waynerockett.com)
 * 🧠  I'm learning everything I can.
 * ⚡  In my spare time I write and host murder mystery nights
-
-
----
 
 
 ### Languages and Tools
