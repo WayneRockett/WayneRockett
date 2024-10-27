@@ -1,6 +1,6 @@
 Howdy ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Wayne Rockett
 ---
-<p><p/>
+
 After working in the transport industry for 20 years, I've had something of a huge change in direction and started to try and learn about this coding lark.
 
 - 🌍  I'm based in West Yorkshire, UK.  
