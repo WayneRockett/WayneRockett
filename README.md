@@ -25,13 +25,11 @@ After working in the transport industry for 20 years, I've had something of a hu
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<img src="https://www.krescentglobal.com/images/iphone/cobol-1.png" width="36" height="36" alt="COBOL" />
 </p>
 
 ### Projects
 🚧 Working (slowly) on an extension for VS Code, Rockett Viewer, which is available on the VS Code Marketplace.
 🚧 Also planning Rockett Replace, a string replace extension for VS Code.
-
 
 ### Socials
 
@@ -46,18 +44,12 @@ Code Wars, top 150 for TypeScript (ssh, don't ask about CSS Battle)
 <img src="https://www.codewars.com/users/WayneRockett/badges/micro" alt="CodeWars"/>
 </p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/WayneRockett"><img src="https://github-readme-stats.vercel.app/api?username=WayneRockett&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="WayneRockett's GitHub stats" /></a>
-
-<a href="https://github.com/WayneRockett" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneRockett&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/countdisoQ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <details>
  <summary><h3>My Coding Journey</h3></summary>
-   I'm one of the generation of bedroom coders from the ZX Spectrum days, but was always unsure if it was something I wanted to do as a career.  So as a student I split my studies between computers, business and educational (I was always getting pushed towards being a teacher).  At the end of my first year as a student, I did a presentation to prospective students on how computers could be used in the transport industry.  A few years later, I was working in the transport industry.  Coding hadn't quite disappeared form my life, although I eventually didn't own a computer myself, I would still code at work to make life easier for myself and sometimes my co-workers.  Upon leaving the transport industry I jumped around a few jobs usually helping people improve how their office ran by writing small scripts or apps, until I was offered the chance to have a go at rolling back the years and becoming a developer.
+   I'm one of the generation of bedroom coders from the ZX Spectrum days, but I was always unsure if it was something I wanted to do as a career.  So as a student, I split my studies between computers, business and education (I was always pushed towards being a teacher).  At the end of my first year as a student, I presented to prospective students how computers could be used in the transport industry.  A few years later, I was working in the transport industry.  Coding hadn't quite disappeared from my life, although I eventually didn't own a computer myself, I would still code at work to make life easier for myself and sometimes my co-workers.  Upon leaving the transport industry I jumped around a few jobs usually helping people improve how their office ran by writing small scripts or apps, until I was offered the chance to have a go at rolling back the years and becoming a developer.
 
 
