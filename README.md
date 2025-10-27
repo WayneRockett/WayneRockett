@@ -26,13 +26,16 @@ After working in the transport industry for 20 years, I've had something of a hu
 ---
 
 ### Projects
-- 🚧 **Rockett Viewer**: Working (slowly) on an extension for VS Code, Rockett Viewer, which is available on the VS Code Marketplace.
-- 🚧 **Rockett Replace**: Also planning Rockett Replace, a string replace extension for VS Code.
+- 💻 **Rockett Viewer**: Working (slowly) on an extension for VS Code, Rockett Viewer, which is available on the VS Code Marketplace. 🔗 [link](https://marketplace.visualstudio.com/items?itemName=WayneSRockett.rockett-viewer)
+- 💻 **Rockett Timer**: Online stopwatch, countdown and meeting timer. 🔗 [link](https://www.timer.waynerockett.com/)
+- 💻 **York Code**: Just for fun online coding platform, for the Yorkshire dialect. 🔗 [link](https://yorkcode.dev/)
+- 🚧 **Sprint Planning Simulator**: Yep, it is what it sounds like, a weird sprint planning simulator game.
+- 🚧 **Recovery Tracker**: Web app for helping with recovery from bowerl surgery.
 
 ---
 
 ### Badges
-**Code Wars**: Top 150 for TypeScript (ssh, don't ask about CSS Battle)
+**Code Wars**: Top 100 for TypeScript (ssh, don't ask about CSS Battle)
 
 <p align="left">
   <img src="https://www.codewars.com/users/WayneRockett/badges/micro" alt="CodeWars"/>
